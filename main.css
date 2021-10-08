@@ -1,0 +1,79 @@
+body {
+    background-color: #131418;
+}
+
+.backimage {
+  background-image: url("assets2/background.jpg");
+}
+.backimage .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.backimage .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #ffffff;
+  transition: all 0.3s;
+  color: #ffffff;
+}
+.backimage .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+.backimage .mbr-section-title {
+  color: #ffffff;
+}
+.backimage .mbr-text,
+.backimage .mbr-section-btn,
+.backimage .social-row {
+  color: #ffffff;
+}
+
+/*! Full-screen */
+.fullscreen .overlay {
+  min-height: 100vh;
+}
+
+.fullscreen {
+  display: flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  align-items: center;
+  min-height: 100vh;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.overlay {
+  background-color: #000;
+  bottom: 0;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+section,
+.container,
+.containerfluid {
+  position: relative;
+  word-wrap: break-word;
+}
+
+@media (min-width: 768px) {
+  .containerfluid {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+.aligncenter {
+  text-align: center;
+}

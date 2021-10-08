@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/quantum.png" type="image/x-icon">
+  <meta name="description" content="Student and Researcher">
+  <title>Jared Wogan</title>
+
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <nav class="navbar sticky-top navbar-expand-md navbar-dark" style="background-color: #000000;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="https://jaredwogan.ca">Home</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navMenu">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="https://jaredwogan.ca/CV" target="_blank">CV</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://jaredwogan.ca/Courses">Courses</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://jaredwogan.ca/Research">Research</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://jaredwogan.ca/Personal">Personal</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <section class="backimage fullscreen" id="splash">
+        <div class="overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);"></div>
+        <div class="aligncenter containerfluid">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-12">
+                    <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Jared Wogan</strong></h1>
+                    <p class="mbr-text mbr-fonts-style mb-3 display-7">
+                        "If you don't understand, who cares?"
+                    </p>
+                    <div class="social-row display-7 mt-5">
+                        <div class="soc-item">
+                            <a href="https://github.com/JaredWogan" target="_blank">
+                                <span class="mbr-iconfont mobi-mbri-github mobi-mbri"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://twitter.com/JaredWogan" target="_blank">
+                                <span class="mbr-iconfont socicon-twitter socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="mailto:jared.wogan@gmail.com">
+                                <span class="mbr-iconfont socicon-mailru socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.quora.com/profile/Jared-Wogan" target="_blank">
+                                <span class="mbr-iconfont socicon-quora socicon"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.youtube.com/channel/UCddnRLbxP5l57eQ_t1e0tHA/featured" target="_blank">
+                                <span class="mbr-iconfont socicon-youtube socicon"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials1 cid-sGbPh5vWLP" id="testimonials1-q">
+        <div class="container">
+            <h3 class="mbr-section-title mbr-fonts-style aligncenter mb-4 display-2">
+                <strong>About Me</strong>
+            </h3>
+            <div class="row align-items-center">
+                <div class="col-12 col-md-6">
+                    <div class="image-wrapper">
+                        <img src="assets/images/57395896-216064089350978-762241426661411855-n-640x640.jpeg" alt="Jared">
+                    </div>
+                </div>
+                <div class="col-12 col-md">
+                    <div class="text-wrapper">
+                        <p class="mbr-text mbr-fonts-style mb-4 display-7">
+                            I am a student in my final year at Brock University, finishing a Bachelors of Science
+                            with a major in Physics and a minor in Mathematics. I am passionate about theories of gravity and
+                            causality within general relativity and quantum mechanics. I would like to use the skills and
+                            knowledge from this degree to push myself to explore these topics further, with a focus on theories
+                            of quantum gravity.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="content13 cid-sGbPcRjP6t" id="content13-p">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-12 col-lg-10">
+                    <h3 class="mbr-section-title mbr-fonts-style mb-4 display-5">
+                        <strong>Frequently asked questions</strong>
+                    </h3>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-12 col-lg-10">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-lg-6">
+                            <ul class="list mbr-fonts-style display-7">
+                                <li><b>What Universities have you attended?</b></li>
+                                <ul class="list mbr-fonts-style display-7">
+                                    <li>
+                                    I initally attended the <b>University of Guelph</b> for my first 3 semesters of undergrad,
+                                    before I decided to take a year off and move back home. I am now attending <b>Brock University</b>,
+                                    with plans to graduate in the spring of 2022.
+                                    </li>
+                                </ul>
+                                <li><b>What makes you want to get a PhD?</b></li>
+                                <ul class="list mbr-fonts-style display-7">
+                                    <li>
+                                    I have always loved learning - growing up I was always one to ask <b>why</b> and <b>how</b> things worked.
+                                    I initally became interested in physics in elementary school and  I knew from that moment it
+                                    was what I was going to do. I would like to pursue a PhD to <b>learn</b> as much as I can while unravelling
+                                    the myseries of the Universe.
+                                    </li>
+                                </ul>
+                                <li><b>What have been your favourite subjects within Physics?</b></li>
+                                <ul class="list mbr-fonts-style display-7">
+                                    <li>
+                                    I have honestly enjoyed all of the subjects I've had the oppurtunity to learn about thus far;
+                                    however if I had to choose a couple, <b>Quantum Mechanics</b> and <b>General Relativity</b>
+                                    have been among my favourites. I've also really enjoyed <b>Scientific Computing</b> projects
+                                    that I've worked on throughout my undergrad.
+                                    </li>
+                                </ul>
+                            </ul>
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <ul class="list mbr-fonts-style display-7">
+                                <li><b>Do you know how to program?</b></li>
+                                <ul class="list mbr-fonts-style display-7">
+                                    <li>
+                                    I consider myself to be proficient in <b>Python</b>, <b>C++</b>, and of course <b>LaTeX</b>,
+                                    although I do know rudimentary amounts of <b>Javascript</b>, <b>Java</b>, <b>HTML</b>, and
+                                    <b>Markdown</b>. I am also familiar with <b>Mathematica</b> as well as <b>Maple</b>.
+                                    </li>
+                                </ul>
+                                <li><b>What do you plan to do in the future?</b></li>
+                                <ul class="list mbr-fonts-style display-7">
+                                    <li>
+                                    I would love to one day be a <b>Professor</b>; however short term, I am looking to apply to graduate
+                                    <b>Physics and Astrophysics</b> programs in the hopes of acquiring a PhD. I would like to push myself
+                                    to be the best candidate I can be, so I am also actively working on writing <b>publications</b> focused
+                                    on causality within General Relativity.
+                                    </li>
+                                </ul>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="assets/theme/js/script.js"></script>
+    <script src="js/common.js"></script>
+    <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const tooltips = document.querySelectorAll('.tt')
+        tooltips.forEach(t => {
+            new bootstrap.Tooltip(t)
+        })
+    </script>
+</body>
+
+</html>
